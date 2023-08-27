@@ -1,0 +1,6 @@
+applicationType: cli
+defaultPackage: com.gh.beaconberry.tjracer
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [ app-name, graalvm, gradle, http-client-test, java, junit, lombok, micronaut-build, picocli, picocli-java-application, picocli-junit, readme, serialization-jackson, shade, slf4j-simple, yaml, yaml-build ]
